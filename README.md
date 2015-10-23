@@ -1,5 +1,5 @@
 # JavaSteganographyStuff
 
-some random stego stuff i did while bored in like 30 mins
+Some random stego stuff I did while bored, in like 30 mins.
 
-hides text in bitmap and (attempts) to put in jargon bytes to confuse the reader. uses fix byte skipping, could use dynamic to make it more secure and stuff
+Hides text in Bitmap's and (attempts) to put in jargon bytes to confuse attempts to reverse it. Uses fix byte skipping, could use dynamic skipping or somthing like that to make it more secure and stuff. Take and learn or somthing. Highly inefficent code that I made as a speed-coding test for myself.
